@@ -1,0 +1,52 @@
+							*****P H A R M A C Y  A P I  C U S T O M  R E S P O N S E  C O D E S*****
+
+
+-----------M O B I L E----------------
+
+1. PHARMACIES / PHARMACY_ID / PHARMACY_NAME
+
+- EFP : Error Fetching Pharmac(y/ies)
+
+
+
+2. SEARCH_PHARMACY
+
+- NPF : No Pharmacy Found
+
+
+3. DRUG
+
+- NDF : No Drug Found
+
+
+
+2. FRIENDS_DATA
+
+- EFFD : Error Fetching Friends Data
+
+
+
+3. SEARCH_USER 
+
+- UNF : User Not Found
+
+
+4. USER_DATA
+
+- EFUD : Error Fetching User Data
+
+
+
+---------P O S T-----------------
+
+
+1. ADD_FRIEND
+
+- NFSA : New Friend Successfully Added
+
+- FAE : Friend Already Exists
+
+
+
+
+
